@@ -1,4 +1,4 @@
-# custom-theme-builder
+# Custom Theme Builder for WebDataRocks
 A tool to help create custom themes for WebDataRocks
 
 ## Prerequisites
