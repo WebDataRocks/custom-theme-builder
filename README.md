@@ -18,3 +18,6 @@ git clone https://github.com/webdatarocks/custom-theme-builder && cd custom-them
 ```bash
 npm install
 ```
+
+## Usage
+Learn how to use the theme builder: [Create a theme using the custom theme builder](https://www.webdatarocks.com/doc/custom-report-themes/#custom-theme-builder).
