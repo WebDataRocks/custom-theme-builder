@@ -7,10 +7,11 @@ This repository contains a tool that helps create custom CSS themes for [WebData
 
 ## Installation
 
-1. Download a `.zip` archive with the theme builder or clone it from GitHub with the following command:
+1. Download a `.zip` archive with the theme builder or clone it from GitHub with the following commands:
 
 ```bash
-git clone https://github.com/webdatarocks/custom-theme-builder && cd custom-theme-builder
+git clone https://github.com/webdatarocks/custom-theme-builder
+cd custom-theme-builder
 ```
 
 2. Install dependencies listed in `package.json`: 
