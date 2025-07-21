@@ -1,4 +1,5 @@
 # Custom theme builder for WebDataRocks
+
 This repository contains a tool that helps create custom CSS themes for [WebDataRocks](https://www.webdatarocks.com/).
 
 ## Prerequisites
@@ -21,7 +22,9 @@ npm install
 ```
 
 ## Usage
+
 Learn how to use the theme builder: [Create a theme using the custom theme builder](https://www.webdatarocks.com/doc/custom-report-themes/#custom-theme-builder).
 
 ## Support
-Feel free to ask WebDataRocks-related questions on [StackOverflow](https://stackoverflow.com/questions/tagged/webdatarocks).
+
+For WebDataRocks-related questions, bug reports and features requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
