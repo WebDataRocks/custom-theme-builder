@@ -26,6 +26,12 @@ npm install
 
 Learn how to use the theme builder: [Create a theme using the custom theme builder](https://www.webdatarocks.com/doc/custom-report-themes/#custom-theme-builder).
 
+## WebDataRocks licensing
+
+The custom theme builder is released under the MIT license (free and open-source).
+
+[WebDataRocks](https://www.webdatarocks.com/) is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
