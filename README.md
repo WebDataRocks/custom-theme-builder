@@ -1,5 +1,8 @@
 # Custom theme builder for WebDataRocks
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/main.png)](https://www.webdatarocks.com/)
+Website: [webdatarocks.com](https://www.webdatarocks.com/)
+
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains a tool that helps create custom CSS themes for [WebDataRocks](https://www.webdatarocks.com/).
 
